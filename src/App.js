@@ -13,9 +13,9 @@ function App() {
   return (
     <div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
-        <a href="/" className="navbar-brand">
+        <Link to={"/"} className="navbar-brand">
           Artasela
-        </a>
+        </Link>
         <div className="navbar-nav mr-auto">
         <li className="nav-item">
             <Link to={"/"} className="nav-link">
