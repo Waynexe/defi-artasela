@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/defi-artasela/static/css/main.1497f66c.css",
+    "main.js": "/defi-artasela/static/js/main.a34fac97.js",
+    "static/js/787.087b4d4e.chunk.js": "/defi-artasela/static/js/787.087b4d4e.chunk.js",
+    "index.html": "/defi-artasela/index.html",
+    "main.1497f66c.css.map": "/defi-artasela/static/css/main.1497f66c.css.map",
+    "main.a34fac97.js.map": "/defi-artasela/static/js/main.a34fac97.js.map",
+    "787.087b4d4e.chunk.js.map": "/defi-artasela/static/js/787.087b4d4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1497f66c.css",
+    "static/js/main.a34fac97.js"
+  ]
+}
